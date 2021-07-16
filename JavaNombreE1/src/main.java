@@ -18,6 +18,8 @@ nombre=objeto.nextLine( );
 
 System.out.println ("Bienvenido " +nombre+ "") ;
 
+System.out.println("Hola mundoooo");
+
 }
 }
 
